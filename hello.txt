@@ -3,3 +3,4 @@ new file
 ini add
 number4
 number5
+number6
