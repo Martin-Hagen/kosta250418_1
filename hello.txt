@@ -4,3 +4,4 @@ ini add
 number4
 number5
 number7
+number6
